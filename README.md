@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hey, I'm Ben 👋
 
-<!--
-**B3ngineering/B3ngineering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 What I’m Working On:
+- 🐭 **Micromouse Simulation**: Building pathfinding simulators for the IEEE Micromouse Maze-Solving Competition
+- ⚡ **Internships**: Currently at Jaza Energy, working on firmware and data analysis while bringing power to communities in Tanzania
+- 🔧 **Skill Development**: Exploring and building with ROS2 and Rust
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ My Skillset:
+- 💻 **Languages**: Python, C, C++, C#, JavaScript, Rust enthusiast
+- 🧠 **Frameworks**: TensorFlow, OpenCV, PyTorch, ROS, .NET
+- 🔨 **Tools & Platforms**: Docker, Git, PostgreSQL, Gazebo
+- 🤖 **Other Specialties**: Machine Learning, Data Visualization, Automation
