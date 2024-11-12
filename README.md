@@ -1,12 +1,16 @@
-# Hey, I'm Ben 👋
+# Hi, I'm Ben.
 
-### 🛠 What I’m Working On:
-- 🐭 **Micromouse Simulation**: Building pathfinding simulators for the IEEE Micromouse Maze-Solving Competition
-- ⚡ **Internships**: Currently at Jaza Energy, working on firmware and data analysis while bringing power to communities in Tanzania
-- 🔧 **Skill Development**: Exploring and building with ROS2 and Rust
+### What I Do:
+- Developed a simulated environment and control software for a maze-solving robot.
+- Designed an AI lifeguarding assistant to improve safety in private pools.
+- Researching and implementing perception tools for the University of Waterloo RoboSub team.
+- Building a personal portfolio website in Rust.
+- I've developed software for drones, batteries, web apps, robots, and quantum communication systems, and would love to add to the list.
 
-### ⚙️ My Skillset:
-- 💻 **Languages**: Python, C, C++, C#, JavaScript, Rust enthusiast
-- 🧠 **Frameworks**: TensorFlow, OpenCV, PyTorch, ROS, .NET
-- 🔨 **Tools & Platforms**: Docker, Git, PostgreSQL, Gazebo
-- 🤖 **Other Specialties**: Machine Learning, Data Visualization, Automation
+### What I Do It With:
+- I'm most experienced with Python, C, C++, C#, and Rust
+- These are some other tools I've used: TensorFlow, OpenCV, PyTorch, ROS, .NET, Docker, Git, PostgreSQL, Gazebo, Robot Framework, and Renode.
+
+### Why I Do It:
+1. Because it's fun.
+2. To get a job (and be good at it).
